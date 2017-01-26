@@ -1,2 +1,2 @@
 # Codewars
-My solutions for codewars problems
+Me not being able into PEP8.
