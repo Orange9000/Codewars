@@ -15,6 +15,8 @@ https://www.codewars.com/kata/roman-numerals-encoder
 <br>
 https://www.codewars.com/kata/social-golfer-problem-validator
 <br>
+https://www.codewars.com/kata/pick-peaks/solutions/python
+<br>
 
 <b><h5>5kyu</h5></b>
 https://www.codewars.com/kata/1-s-0-s-and-wildcards
