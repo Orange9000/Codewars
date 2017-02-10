@@ -6,7 +6,9 @@ Also, me not being able into PEP8.
 
 <b><h5>3kyu</h5></b>
 https://www.codewars.com/kata/calculator/python
+<br>
 https://www.codewars.com/kata/make-a-spiral
+<br>
 
 <b><h5>4kyu</h5></b>
 https://www.codewars.com/kata/roman-numerals-encoder
