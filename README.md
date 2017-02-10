@@ -55,6 +55,8 @@ https://www.codewars.com/kata/simple-fun-number-91-unique-digit-products
 <br>
 https://www.codewars.com/kata/srot-the-inner-ctonnet-in-dsnnieedcg-oredr
 <br>
+https://www.codewars.com/kata/logical-disjunctions/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
