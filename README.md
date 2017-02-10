@@ -21,6 +21,8 @@ https://www.codewars.com/kata/snail/python
 <br>
 https://www.codewars.com/kata/decode-the-morse-code-advanced/python
 <br>
+https://www.codewars.com/kata/valid-braces/javascript
+<br>
 
 <b><h5>5kyu</h5></b>
 https://www.codewars.com/kata/1-s-0-s-and-wildcards
