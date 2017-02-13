@@ -85,3 +85,5 @@ https://www.codewars.com/kata/temperature-analysis-iii
 <br>
 https://www.codewars.com/kata/ascii-letters-from-number/train/python
 <br>
+https://www.codewars.com/kata/running-average/train/python
+<br>
