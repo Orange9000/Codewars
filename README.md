@@ -61,6 +61,8 @@ https://www.codewars.com/kata/logical-disjunctions/python
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
 <br>
+https://www.codewars.com/kata/reverse-and-invert/train/python
+<br>
 
 <b><h5>beta</h5></b>
 https://www.codewars.com/kata/braces-status
