@@ -91,3 +91,5 @@ https://www.codewars.com/kata/running-average/train/python
 <br>
 https://www.codewars.com/kata/sort-the-comments/python
 <br>
+https://www.codewars.com/kata/credit-card-or-playing-card/python
+<br>
