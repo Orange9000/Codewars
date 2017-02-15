@@ -1,7 +1,7 @@
 # Codewars
 Solutions I am not too ashamed to put on github. 
 Also, me not being able into PEP8.
-
+My current codewars rank:
 <img src=https://www.codewars.com/users/TehOrange/badges/large>
 
 <b><h5>3kyu</h5></b>
