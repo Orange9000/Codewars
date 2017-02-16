@@ -37,6 +37,8 @@ https://www.codewars.com/kata/first-variation-on-caesar-cipher
 <br>
 https://www.codewars.com/kata/regex-password-validation
 <br>
+https://www.codewars.com/kata/string-incrementer/python
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
