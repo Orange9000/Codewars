@@ -68,6 +68,8 @@ https://www.codewars.com/kata/what-color-is-your-name/python
 <br>
 https://www.codewars.com/kata/reducing-by-rules-to-get-the-result/python
 <br>
+https://www.codewars.com/kata/rot13-variant-cipher/train/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
