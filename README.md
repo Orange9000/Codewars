@@ -81,7 +81,7 @@ https://www.codewars.com/kata/reverse-and-invert/train/python
 https://www.codewars.com/kata/string-to-list-of-integers/python
 <br>
 
-<br><h5>8kyu</h5></b>
+<b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
 <br>
 
