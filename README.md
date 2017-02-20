@@ -108,3 +108,5 @@ https://www.codewars.com/kata/credit-card-or-playing-card/python
 <br>
 https://www.codewars.com/kata/the-rhinestone-cowboy-~-count-the-dollars-in-his-boots/train/python
 <br>
+https://www.codewars.com/kata/scraping-get-a-users-honor/python
+<br>
