@@ -80,6 +80,8 @@ https://www.codewars.com/kata/reverse-and-invert/train/python
 <br>
 https://www.codewars.com/kata/string-to-list-of-integers/python
 <br>
+https://www.codewars.com/kata/batman-quotes/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
