@@ -90,6 +90,8 @@ https://www.codewars.com/kata/disemvowel-trolls/train/python
 <br>
 https://www.codewars.com/kata/cut-array-into-smaller-parts/python
 <br>
+https://www.codewars.com/kata/password-validator/train/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
