@@ -128,3 +128,5 @@ https://www.codewars.com/kata/58ab2ed1acbab2eacc00010e
 <br>
 https://www.codewars.com/kata/permute-a-palindrome/python
 <br>
+https://www.codewars.com/kata/password-generator/python
+<br>
