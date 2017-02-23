@@ -74,6 +74,8 @@ https://www.codewars.com/kata/vending-machine-2/train/python
 <br>
 https://www.codewars.com/kata/valid-phone-number/train/python
 <br>
+https://www.codewars.com/kata/simple-fun-number-160-cut-the-ropes/train/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
