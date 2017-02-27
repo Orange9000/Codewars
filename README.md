@@ -92,6 +92,8 @@ https://www.codewars.com/kata/cut-array-into-smaller-parts/python
 <br>
 https://www.codewars.com/kata/password-validator/train/javascript
 <br>
+https://www.codewars.com/kata/how-many-points-did-the-teams-from-los-angeles-score/train/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
