@@ -134,3 +134,5 @@ https://www.codewars.com/kata/permute-a-palindrome/python
 <br>
 https://www.codewars.com/kata/password-generator/python
 <br>
+https://www.codewars.com/kata/simple-fun-number-170-sum-groups/train/python
+<br>
