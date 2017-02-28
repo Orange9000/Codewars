@@ -136,3 +136,5 @@ https://www.codewars.com/kata/password-generator/python
 <br>
 https://www.codewars.com/kata/simple-fun-number-170-sum-groups/train/python
 <br>
+https://www.codewars.com/kata/simple-find-the-distance-between-two-points/train/python
+<br>
