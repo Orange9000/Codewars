@@ -40,6 +40,8 @@ https://www.codewars.com/kata/regex-password-validation
 <br>
 https://www.codewars.com/kata/string-incrementer/python
 <br>
+https://www.codewars.com/kata/paginationhelper/python
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
