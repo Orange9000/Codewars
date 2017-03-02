@@ -98,6 +98,8 @@ https://www.codewars.com/kata/how-many-points-did-the-teams-from-los-angeles-sco
 <br>
 https://www.codewars.com/kata/remove-html-tags-using-regexp/train/python
 <br>
+https://www.codewars.com/kata/shortest-word/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
