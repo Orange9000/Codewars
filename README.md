@@ -42,6 +42,8 @@ https://www.codewars.com/kata/string-incrementer/python
 <br>
 https://www.codewars.com/kata/paginationhelper/python
 <br>
+https://www.codewars.com/kata/directions-reduction/javascript
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
