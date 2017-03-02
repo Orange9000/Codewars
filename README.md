@@ -1,5 +1,5 @@
 # Codewars
-Solutions I am not too ashamed to put on github. 
+Solutions for codewars problems I am not too ashamed to put on github. 
 Also, me not being able into PEP8.
 <br>
 My current codewars rank:
