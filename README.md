@@ -7,7 +7,7 @@ My current codewars rank:
 <br>
 <img src=https://www.codewars.com/users/TehOrange/badges/large>
 
-<b><h5>Completed katas</h5></b>
+<b><h5>Completed katas:</h5></b>
 <b><h5>3kyu</h5></b>
 https://www.codewars.com/kata/calculator/python
 <br>
