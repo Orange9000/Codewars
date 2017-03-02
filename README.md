@@ -100,6 +100,8 @@ https://www.codewars.com/kata/remove-html-tags-using-regexp/train/python
 <br>
 https://www.codewars.com/kata/shortest-word/javascript
 <br>
+https://www.codewars.com/kata/is-this-a-triangle/train/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
