@@ -31,6 +31,8 @@ https://www.codewars.com/kata/recover-a-secret-string-from-random-triplets/pytho
 <br>
 https://www.codewars.com/kata/sudoku-solution-validator/python
 <br>
+https://www.codewars.com/kata/ip-validation/train/javascript
+<br>
 
 <b><h5>5kyu</h5></b>
 https://www.codewars.com/kata/1-s-0-s-and-wildcards
