@@ -151,3 +151,5 @@ https://www.codewars.com/kata/simple-find-the-distance-between-two-points/train/
 <br>
 https://www.codewars.com/kata/which-operator/python
 <br>
+https://www.codewars.com/kata/kushim-the-accountant-extract-dollars-values-from-text/javascript
+<br>
