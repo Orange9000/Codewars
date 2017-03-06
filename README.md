@@ -159,3 +159,5 @@ https://www.codewars.com/kata/simple-fun-number-182-happy-g/train/javascript
 <br>
 https://www.codewars.com/kata/unique-items-in-array/javascript
 <br>
+https://www.codewars.com/kata/isreallynan/javascript
+<br>
