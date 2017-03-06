@@ -163,3 +163,5 @@ https://www.codewars.com/kata/unique-items-in-array/javascript
 <br>
 https://www.codewars.com/kata/isreallynan/javascript
 <br>
+https://www.codewars.com/kata/simple-fun-number-185-revamp/javascript
+<br>
