@@ -155,3 +155,5 @@ https://www.codewars.com/kata/which-operator/python
 <br>
 https://www.codewars.com/kata/kushim-the-accountant-extract-dollars-values-from-text/javascript
 <br>
+https://www.codewars.com/kata/simple-fun-number-182-happy-g/train/javascript
+<br>
