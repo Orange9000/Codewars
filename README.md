@@ -33,6 +33,8 @@ https://www.codewars.com/kata/sudoku-solution-validator/python
 <br>
 https://www.codewars.com/kata/ip-validation/train/javascript
 <br>
+https://www.codewars.com/kata/roman-numerals-encoder/javascript
+<br>
 
 <b><h5>5kyu</h5></b>
 https://www.codewars.com/kata/1-s-0-s-and-wildcards
