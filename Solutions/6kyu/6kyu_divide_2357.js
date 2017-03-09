@@ -1,0 +1,1 @@
+const divide2357=(arr)=> arr.some((n)=>n%7===0||n%5===0||n%3===0||n%2===0) === true ? divide2357(arr.map((se) => se % 7 === 0 ? se/7 : se).map((fv) => fv % 5 === 0 ? fv/5 : fv).map((th) => th % 3 === 0 ? th/3 : th).map((tw) => tw % 2 === 0 ? tw/2 : tw)) : arr
