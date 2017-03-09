@@ -113,6 +113,8 @@ https://www.codewars.com/kata/is-this-a-triangle/train/javascript
 <br>
 https://www.codewars.com/kata/simple-fun-number-176-reverse-letter/train/javascript
 <br>
+https://www.codewars.com/kata/complementary-dna/train/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
