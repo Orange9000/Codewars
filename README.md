@@ -87,6 +87,8 @@ https://www.codewars.com/kata/simple-fun-number-160-cut-the-ropes/train/python
 <br>
 https://www.codewars.com/kata/simple-encryption-number-1-alternating-split/train/python
 <br>
+https://www.codewars.com/kata/are-you-a-one-liner-number-1-divide-2-3-5-7/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
