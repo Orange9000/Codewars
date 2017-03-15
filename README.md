@@ -185,3 +185,5 @@ https://www.codewars.com/kata/isreallynan/javascript
 <br>
 https://www.codewars.com/kata/simple-fun-number-185-revamp/javascript
 <br>
+https://www.codewars.com/kata/pythons-dynamic-classes-number-3/python
+<br>
