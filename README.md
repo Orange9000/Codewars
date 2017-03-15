@@ -127,6 +127,8 @@ https://www.codewars.com/kata/complementary-dna/train/python
 <br>
 https://www.codewars.com/kata/simple-fun-number-177-rank-of-element/javascript
 <br>
+https://www.codewars.com/kata/working-with-dictionaries/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
