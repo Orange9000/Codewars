@@ -51,6 +51,8 @@ https://www.codewars.com/kata/paginationhelper/python
 <br>
 https://www.codewars.com/kata/directions-reduction/javascript
 <br>
+https://www.codewars.com/kata/valid-parentheses/train/javascript
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
