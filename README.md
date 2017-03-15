@@ -187,3 +187,5 @@ https://www.codewars.com/kata/simple-fun-number-185-revamp/javascript
 <br>
 https://www.codewars.com/kata/pythons-dynamic-classes-number-3/python
 <br>
+http://www.codewars.com/kata/pythons-dynamic-classes-number-1/python
+<br>
