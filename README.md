@@ -131,6 +131,8 @@ https://www.codewars.com/kata/working-with-dictionaries/python
 <br>
 https://www.codewars.com/kata/simple-fun-number-9-array-packing/javascript
 <br>
+https://www.codewars.com/kata/simple-fun-number-45-new-numeral-system
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
