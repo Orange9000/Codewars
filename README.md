@@ -97,6 +97,8 @@ https://www.codewars.com/kata/the-maximum-and-minimum-difference-simple-version/
 <br>
 https://www.codewars.com/kata/generating-numbers-from-digits-number-1/python
 <br>
+https://www.codewars.com/kata/connect-four-placing-tokens/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
