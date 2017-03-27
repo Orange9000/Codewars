@@ -101,6 +101,8 @@ https://www.codewars.com/kata/generating-numbers-from-digits-number-1/python
 <br>
 https://www.codewars.com/kata/connect-four-placing-tokens/python
 <br>
+https://www.codewars.com/kata/simple-fun-number-170-sum-groups/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
