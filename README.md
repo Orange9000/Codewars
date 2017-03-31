@@ -203,3 +203,5 @@ http://www.codewars.com/kata/pythons-dynamic-classes-number-1/python
 <br>
 https://www.codewars.com/kata/alex-and-snooker-points-earned/python
 <br>
+https://www.codewars.com/kata/andys-coffee-addiction/
+<br>
