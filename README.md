@@ -149,6 +149,8 @@ https://www.codewars.com/kata/simple-fun-number-51-array-previous-less/
 <br>
 https://www.codewars.com/kata/sort-an-array-by-value-and-index/javascript
 <br>
+https://www.codewars.com/kata/simple-fun-number-138-similarity/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
