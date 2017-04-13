@@ -151,6 +151,8 @@ https://www.codewars.com/kata/sort-an-array-by-value-and-index/javascript
 <br>
 https://www.codewars.com/kata/simple-fun-number-138-similarity/python
 <br>
+https://www.codewars.com/kata/simple-fun-number-41-elections-winners/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
