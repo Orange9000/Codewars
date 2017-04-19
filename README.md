@@ -113,6 +113,8 @@ https://www.codewars.com/kata/numerical-palindrome-number-1-dot-5/javascript
 <br>
 https://www.codewars.com/kata/persistent-bugger/
 <br>
+https://www.codewars.com/kata/mexican-wave/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
