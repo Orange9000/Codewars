@@ -115,6 +115,8 @@ https://www.codewars.com/kata/persistent-bugger/
 <br>
 https://www.codewars.com/kata/mexican-wave/
 <br>
+https://www.codewars.com/kata/58f6000bc0ec6451960000fd
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
