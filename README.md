@@ -168,7 +168,7 @@ https://www.codewars.com/kata/heads-and-legs/train/python
 https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/
 <br>
 
-<b><h5>beta</h5></b>
+<b><h5>beta (some of these could be out of beta already)</h5></b>
 https://www.codewars.com/kata/braces-status
 <br>
 https://www.codewars.com/kata/find-the-counterfeit
