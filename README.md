@@ -117,6 +117,8 @@ https://www.codewars.com/kata/mexican-wave/
 <br>
 https://www.codewars.com/kata/58f6000bc0ec6451960000fd
 <br>
+https://www.codewars.com/kata/simple-fun-number-186-duplicate-phone-numbers/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
