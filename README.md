@@ -57,6 +57,8 @@ https://www.codewars.com/kata/valid-parentheses/train/javascript
 <br>
 https://www.codewars.com/kata/simple-fun-number-178-faulty-odometer/
 <br>
+https://www.codewars.com/kata/simple-fun-number-167-spreadsheet/
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
