@@ -167,6 +167,8 @@ https://www.codewars.com/kata/simple-fun-number-41-elections-winners/javascript
 <br>
 https://www.codewars.com/kata/simple-fun-number-203-strange-coach/
 <br>
+https://www.codewars.com/kata/simple-fun-number-205-split-exp/
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
