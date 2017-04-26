@@ -123,6 +123,8 @@ https://www.codewars.com/kata/simple-fun-number-186-duplicate-phone-numbers/
 <br>
 https://www.codewars.com/kata/simple-fun-number-161-replace-dashes-as-one/
 <br>
+https://www.codewars.com/kata/simple-fun-number-201-cards-and-pero/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
