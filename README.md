@@ -129,6 +129,8 @@ https://www.codewars.com/kata/simple-fun-number-201-cards-and-pero/
 <br>
 https://www.codewars.com/kata/simple-fun-number-162-pair-wise/
 <br>
+https://www.codewars.com/kata/counting-duplicates/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
