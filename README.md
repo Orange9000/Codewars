@@ -247,3 +247,5 @@ https://www.codewars.com/kata/andys-coffee-addiction/
 <br>
 https://www.codewars.com/kata/reverse-every-other-word-in-the-string/javascript
 <br>
+https://www.codewars.com/kata/is-it-an-isogram/
+<br>
