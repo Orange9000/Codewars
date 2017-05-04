@@ -251,3 +251,5 @@ https://www.codewars.com/kata/reverse-every-other-word-in-the-string/javascript
 <br>
 https://www.codewars.com/kata/is-it-an-isogram/
 <br>
+https://www.codewars.com/kata/smart-traffic-lights/
+<br>
