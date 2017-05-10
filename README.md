@@ -133,6 +133,8 @@ https://www.codewars.com/kata/counting-duplicates/
 <br>
 https://www.codewars.com/kata/parse-html-slash-css-colors/
 <br>
+https://www.codewars.com/kata/simple-fun-number-258-is-divisible-by-6/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
