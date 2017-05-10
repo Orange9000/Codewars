@@ -257,3 +257,5 @@ https://www.codewars.com/kata/is-it-an-isogram/
 <br>
 https://www.codewars.com/kata/smart-traffic-lights/
 <br>
+https://www.codewars.com/kata/no-loops-3-copy-within/
+<br>
