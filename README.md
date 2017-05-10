@@ -183,6 +183,8 @@ https://www.codewars.com/kata/simple-fun-number-203-strange-coach/
 <br>
 https://www.codewars.com/kata/simple-fun-number-205-split-exp/
 <br>
+https://www.codewars.com/kata/convert-color-image-to-greyscale/
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
