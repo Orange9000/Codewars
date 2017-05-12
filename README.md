@@ -187,6 +187,8 @@ https://www.codewars.com/kata/simple-fun-number-205-split-exp/
 <br>
 https://www.codewars.com/kata/convert-color-image-to-greyscale/
 <br>
+https://www.codewars.com/kata/simple-fun-number-262-case-unification/
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
