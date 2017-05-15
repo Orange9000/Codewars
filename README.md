@@ -137,6 +137,8 @@ https://www.codewars.com/kata/simple-fun-number-258-is-divisible-by-6/
 <br>
 https://www.codewars.com/kata/the-hunger-games-foxes-and-chickens/
 <br>
+https://www.codewars.com/kata/ideal-electron-distribution/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
