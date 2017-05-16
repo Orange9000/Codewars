@@ -63,6 +63,8 @@ https://www.codewars.com/kata/first-non-repeating-letter/
 <br>
 https://www.codewars.com/kata/the-road-kill-detective/
 <br>
+https://www.codewars.com/kata/soundex/
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
