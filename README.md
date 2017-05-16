@@ -61,6 +61,8 @@ https://www.codewars.com/kata/simple-fun-number-167-spreadsheet/
 <br>
 https://www.codewars.com/kata/first-non-repeating-letter/
 <br>
+https://www.codewars.com/kata/the-road-kill-detective/
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
