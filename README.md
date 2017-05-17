@@ -143,6 +143,8 @@ https://www.codewars.com/kata/the-hunger-games-foxes-and-chickens/
 <br>
 https://www.codewars.com/kata/ideal-electron-distribution/
 <br>
+https://www.codewars.com/kata/sort-the-odd/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
