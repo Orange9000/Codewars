@@ -145,6 +145,8 @@ https://www.codewars.com/kata/ideal-electron-distribution/
 <br>
 https://www.codewars.com/kata/sort-the-odd/
 <br>
+https://www.codewars.com/kata/simple-fun-number-259-different-digits-number-search/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
