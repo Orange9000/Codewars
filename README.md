@@ -5,6 +5,8 @@ Programming languages are JavaScript and Python.
 <br>
 Also, me not being able into PEP8.
 <br>
+<br>
+<br>
 My current codewars rank:
 <br>
 <br>
