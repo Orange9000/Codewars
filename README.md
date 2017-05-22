@@ -156,6 +156,8 @@ https://www.codewars.com/kata/simple-fun-number-259-different-digits-number-sear
 <br>
 https://www.codewars.com/kata/pie-chart/javascript
 <br>
+https://www.codewars.com/kata/spelling-bee/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
