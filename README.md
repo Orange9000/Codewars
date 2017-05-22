@@ -70,6 +70,8 @@ https://www.codewars.com/kata/the-road-kill-detective/
 <br>
 https://www.codewars.com/kata/soundex/
 <br>
+https://www.codewars.com/kata/the-look-and-say-sequence/
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
