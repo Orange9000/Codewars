@@ -288,3 +288,5 @@ https://www.codewars.com/kata/no-loops-3-copy-within/
 <br>
 https://www.codewars.com/kata/5914e068f05d9a011e000054
 <br>
+https://www.codewars.com/kata/regexp-for-validation-string/
+<br>
