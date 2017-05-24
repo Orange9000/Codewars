@@ -158,6 +158,8 @@ https://www.codewars.com/kata/pie-chart/javascript
 <br>
 https://www.codewars.com/kata/spelling-bee/python
 <br>
+https://www.codewars.com/kata/look-and-say-sequence-generator/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
