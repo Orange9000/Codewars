@@ -72,6 +72,8 @@ https://www.codewars.com/kata/soundex/
 <br>
 https://www.codewars.com/kata/the-look-and-say-sequence/
 <br>
+https://www.codewars.com/kata/bulk-up/train/
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
