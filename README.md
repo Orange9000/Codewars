@@ -300,3 +300,5 @@ https://www.codewars.com/kata/mac-address-regexp/
 <br>
 https://www.codewars.com/kata/number-1-sequences-pure-even-digit-perfect-squares-p-dot-e-d-dot-p-s/
 <br>
+https://www.codewars.com/kata/digital-cypher-vol-2/
+<br>
