@@ -164,6 +164,8 @@ https://www.codewars.com/kata/look-and-say-sequence-generator/
 <br>
 https://www.codewars.com/kata/autocomplete-yay/
 <br>
+https://www.codewars.com/kata/simple-fun-number-290-sum-of-threes/
+<br>
 
 
 <b><h5>7kyu</h5></b>
