@@ -218,6 +218,8 @@ https://www.codewars.com/kata/sum-of-all-the-multiples-of-3-or-5/
 <br>
 https://www.codewars.com/kata/no-ifs-no-buts/
 <br>
+https://www.codewars.com/kata/holiday-x-bintang-vests/
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
