@@ -163,6 +163,7 @@ https://www.codewars.com/kata/spelling-bee/python
 https://www.codewars.com/kata/look-and-say-sequence-generator/
 <br>
 
+
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
 <br>
@@ -219,6 +220,8 @@ https://www.codewars.com/kata/sum-of-all-the-multiples-of-3-or-5/
 https://www.codewars.com/kata/no-ifs-no-buts/
 <br>
 https://www.codewars.com/kata/holiday-x-bintang-vests/
+<br>
+https://www.codewars.com/kata/ga-de-ry-po-lu-ki-cypher/
 <br>
 
 <b><h5>8kyu</h5></b>
