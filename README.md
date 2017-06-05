@@ -166,6 +166,8 @@ https://www.codewars.com/kata/autocomplete-yay/
 <br>
 https://www.codewars.com/kata/simple-fun-number-290-sum-of-threes/
 <br>
+https://www.codewars.com/kata/mr-safetys-treasures/
+<br>
 
 
 <b><h5>7kyu</h5></b>
