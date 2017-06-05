@@ -76,6 +76,8 @@ https://www.codewars.com/kata/bulk-up/train/
 <br>
 https://www.codewars.com/kata/palindrome-chain-length/
 <br>
+https://www.codewars.com/kata/simple-digit-code-breaker
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
