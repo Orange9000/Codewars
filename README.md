@@ -176,6 +176,8 @@ https://www.codewars.com/kata/mr-safetys-treasures/
 <br>
 https://www.codewars.com/kata/write-number-in-expanded-form/
 <br>
+https://www.codewars.com/kata/simple-fun-number-319-number-and-ip-address/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
