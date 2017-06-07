@@ -13,9 +13,5 @@ function toInt(s) {
 }
 
 function toIp(s, m=(+s).toString(2), p=('0').repeat(32-m.length)+m) {
-  var result = []
-  for (var i=0; i<32; i+=8) {
-    result.push(p.slice(i,i+8))
-  }
-  return result.map(e=>parseInt(e,2)).join('.')
+  return p.match(/.{8}/g).map(e=>parseInt(e,2)).join('.')
 }
