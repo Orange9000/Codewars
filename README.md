@@ -244,6 +244,8 @@ https://www.codewars.com/kata/adding-words-part-i
 <br>
 https://www.codewars.com/kata/59377c53e66267c8f6000027
 <br>
+https://www.codewars.com/kata/593c9175933500f33400003e
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
