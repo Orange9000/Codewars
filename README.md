@@ -180,6 +180,9 @@ https://www.codewars.com/kata/simple-fun-number-319-number-and-ip-address/
 <br>
 https://www.codewars.com/kata/5938f5b606c3033f4700015a
 <br>
+https://www.codewars.com/kata/find-the-unique-number-1/
+<br>
+
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
