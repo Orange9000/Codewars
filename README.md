@@ -80,6 +80,8 @@ https://www.codewars.com/kata/simple-digit-code-breaker
 <br>
 https://www.codewars.com/kata/part-1-evil-programming-government-restrictions/
 <br>
+https://www.codewars.com/kata/find-the-unique-string
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
