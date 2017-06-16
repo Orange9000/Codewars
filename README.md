@@ -343,3 +343,5 @@ https://www.codewars.com/kata/adding-words-part-ii/
 <br>
 https://www.codewars.com/kata/check-the-status-of-the-generator-expression/
 <br>
+https://www.codewars.com/kata/walk-the-object-path/javascript
+<br>
