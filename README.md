@@ -345,3 +345,5 @@ https://www.codewars.com/kata/check-the-status-of-the-generator-expression/
 <br>
 https://www.codewars.com/kata/walk-the-object-path/javascript
 <br>
+https://www.codewars.com/kata/number-decoding/javascript
+<br>
