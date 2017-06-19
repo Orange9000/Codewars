@@ -351,3 +351,5 @@ https://www.codewars.com/kata/number-decoding/javascript
 <br>
 https://www.codewars.com/kata/59476f9d7325addc860000b9
 <br>
+https://www.codewars.com/kata/59474c656ff02b21e20000fc
+<br>
