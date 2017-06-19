@@ -255,6 +255,8 @@ https://www.codewars.com/kata/58845a92bd573378f4000035
 <br>
 https://www.codewars.com/kata/difference-between-two-collections/
 <br>
+https://www.codewars.com/kata/59414b46d040b7b8f7000021
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
