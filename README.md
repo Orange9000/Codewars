@@ -349,3 +349,5 @@ https://www.codewars.com/kata/walk-the-object-path/javascript
 <br>
 https://www.codewars.com/kata/number-decoding/javascript
 <br>
+https://www.codewars.com/kata/59476f9d7325addc860000b9
+<br>
