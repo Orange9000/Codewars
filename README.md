@@ -188,6 +188,8 @@ https://www.codewars.com/kata/highest-scoring-word/javascript
 <br>
 https://www.codewars.com/kata/creating-a-string-for-an-array-of-objects-from-a-set-of-words/javascript
 <br>
+https://www.codewars.com/kata/random-substitution-cipher/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
