@@ -360,3 +360,5 @@ https://www.codewars.com/kata/59476f9d7325addc860000b9
 <br>
 https://www.codewars.com/kata/59474c656ff02b21e20000fc
 <br>
+https://www.codewars.com/kata/no-loops-1-small-enough/javascript
+<br>
