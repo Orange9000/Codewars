@@ -196,6 +196,8 @@ https://www.codewars.com/kata/random-substitution-cipher/javascript
 <br>
 https://www.codewars.com/kata/image-host-filename-generator/javascript
 <br>
+https://www.codewars.com/kata/sort-my-animals/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
