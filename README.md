@@ -374,3 +374,5 @@ https://www.codewars.com/kata/no-loops-1-small-enough/javascript
 <br>
 https://www.codewars.com/kata/simple-fun-number-320-scratch-lottery-i/
 <br>
+https://www.codewars.com/kata/calculator-addition-and-spaces-part-1/javascript
+<br>
