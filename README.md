@@ -44,6 +44,8 @@ https://www.codewars.com/kata/longest-common-subsequence/train/javascript
 <br>
 https://www.codewars.com/kata/range-extraction/javascript
 <br>
+https://www.codewars.com/kata/string-indexof-and-lastindexof-with-regex/
+<br>
 
 <b><h5>5kyu</h5></b>
 https://www.codewars.com/kata/1-s-0-s-and-wildcards
