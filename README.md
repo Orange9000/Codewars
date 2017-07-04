@@ -280,6 +280,8 @@ https://www.codewars.com/kata/mobile-display-keystrokes/javascript
 <br>
 https://www.codewars.com/kata/counting-in-the-amazon/javascript
 <br>
+https://www.codewars.com/kata/5412509bd436bd33920011bc
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
