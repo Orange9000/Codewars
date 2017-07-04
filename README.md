@@ -290,6 +290,8 @@ https://www.codewars.com/kata/heads-and-legs/train/python
 <br>
 https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/
 <br>
+https://www.codewars.com/kata/do-i-get-a-bonus/python
+<br>
 
 <b><h5>beta (some of these could be out of beta already)</h5></b>
 https://www.codewars.com/kata/braces-status
