@@ -282,6 +282,8 @@ https://www.codewars.com/kata/counting-in-the-amazon/javascript
 <br>
 https://www.codewars.com/kata/5412509bd436bd33920011bc
 <br>
+https://www.codewars.com/kata/ascii-cipher/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
