@@ -392,3 +392,5 @@ https://www.codewars.com/kata/simple-fun-number-320-scratch-lottery-i/
 <br>
 https://www.codewars.com/kata/calculator-addition-and-spaces-part-1/javascript
 <br>
+https://www.codewars.com/kata/1rm-calculator/python
+<br>
