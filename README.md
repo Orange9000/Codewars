@@ -284,6 +284,8 @@ https://www.codewars.com/kata/5412509bd436bd33920011bc
 <br>
 https://www.codewars.com/kata/ascii-cipher/python
 <br>
+https://www.codewars.com/kata/lost-number-in-number-sequence/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
