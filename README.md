@@ -88,6 +88,8 @@ https://www.codewars.com/kata/translate-to-1337/javascript
 <br>
 https://www.codewars.com/kata/ascii-hex-converter/
 <br>
+https://www.codewars.com/kata/simple-fun-number-337-the-original-number/
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
