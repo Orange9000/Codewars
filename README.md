@@ -288,6 +288,8 @@ https://www.codewars.com/kata/ascii-cipher/python
 <br>
 https://www.codewars.com/kata/lost-number-in-number-sequence/javascript
 <br>
+https://www.codewars.com/kata/sushi-go-round-beginners/
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
