@@ -204,6 +204,8 @@ https://www.codewars.com/kata/sort-my-animals/javascript
 <br>
 https://www.codewars.com/kata/simple-fun-number-212-processing-requests/javascript
 <br>
+https://www.codewars.com/kata/are-we-alternate/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
