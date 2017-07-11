@@ -402,3 +402,5 @@ https://www.codewars.com/kata/calculator-addition-and-spaces-part-1/javascript
 <br>
 https://www.codewars.com/kata/1rm-calculator/python
 <br>
+https://www.codewars.com/kata/watching-your-pennies/
+<br>
