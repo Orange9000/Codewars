@@ -404,3 +404,5 @@ https://www.codewars.com/kata/1rm-calculator/python
 <br>
 https://www.codewars.com/kata/watching-your-pennies/
 <br>
+https://www.codewars.com/kata/shopping-list/javascript
+<br>
