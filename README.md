@@ -406,3 +406,5 @@ https://www.codewars.com/kata/watching-your-pennies/
 <br>
 https://www.codewars.com/kata/shopping-list/javascript
 <br>
+https://www.codewars.com/kata/596570c424ae4501f700003d
+<br>
