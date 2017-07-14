@@ -416,3 +416,5 @@ https://www.codewars.com/kata/condensentences/javascript
 <br>
 https://www.codewars.com/kata/string-average/
 <br>
+https://www.codewars.com/kata/sum-the-strings-array-edition/
+<br>
