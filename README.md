@@ -208,6 +208,8 @@ https://www.codewars.com/kata/simple-fun-number-212-processing-requests/javascri
 <br>
 https://www.codewars.com/kata/are-we-alternate/
 <br>
+https://www.codewars.com/kata/sha-256-cracker/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
