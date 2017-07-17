@@ -422,3 +422,5 @@ https://www.codewars.com/kata/string-average/
 <br>
 https://www.codewars.com/kata/sum-the-strings-array-edition/
 <br>
+https://www.codewars.com/kata/fizzbuzz-plus-plus/python
+<br>
