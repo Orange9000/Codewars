@@ -92,6 +92,8 @@ https://www.codewars.com/kata/ascii-hex-converter/
 <br>
 https://www.codewars.com/kata/simple-fun-number-337-the-original-number/
 <br>
+https://www.codewars.com/kata/basic-nico-variation/javascript
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
