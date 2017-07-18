@@ -94,6 +94,8 @@ https://www.codewars.com/kata/simple-fun-number-337-the-original-number/
 <br>
 https://www.codewars.com/kata/basic-nico-variation/javascript
 <br>
+https://www.codewars.com/kata/base64-numeric-translator/python
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
