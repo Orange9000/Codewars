@@ -435,3 +435,5 @@ https://www.codewars.com/kata/fizzbuzz-plus-plus/python
 <br>
 https://www.codewars.com/kata/average-array/javascript
 <br>
+https://www.codewars.com/kata/words-to-hex/javascript
+<br>
