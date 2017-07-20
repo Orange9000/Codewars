@@ -433,3 +433,5 @@ https://www.codewars.com/kata/sum-the-strings-array-edition/
 <br>
 https://www.codewars.com/kata/fizzbuzz-plus-plus/python
 <br>
+https://www.codewars.com/kata/average-array/javascript
+<br>
