@@ -100,6 +100,8 @@ https://www.codewars.com/kata/convert-a-hex-string-to-rgb/javascript
 <br>
 https://www.codewars.com/kata/being-wordy/javascript
 <br>
+https://www.codewars.com/kata/bit-calculator/javascript
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
