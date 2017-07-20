@@ -98,6 +98,8 @@ https://www.codewars.com/kata/base64-numeric-translator/python
 <br>
 https://www.codewars.com/kata/convert-a-hex-string-to-rgb/javascript
 <br>
+https://www.codewars.com/kata/being-wordy/javascript
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
