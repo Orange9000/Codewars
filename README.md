@@ -443,3 +443,5 @@ https://www.codewars.com/kata/average-array/javascript
 <br>
 https://www.codewars.com/kata/words-to-hex/javascript
 <br>
+https://www.codewars.com/kata/japanese-numbers/javascript
+<br>
