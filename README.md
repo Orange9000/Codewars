@@ -445,3 +445,5 @@ https://www.codewars.com/kata/words-to-hex/javascript
 <br>
 https://www.codewars.com/kata/japanese-numbers/javascript
 <br>
+https://www.codewars.com/kata/fixme-pow/javascript
+<br>
