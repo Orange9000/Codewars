@@ -319,6 +319,8 @@ https://www.codewars.com/kata/nova-polynomial-4-derivative/python
 <br>
 https://www.codewars.com/kata/the-deaf-rats-of-hamelin/python
 <br>
+https://www.codewars.com/kata/most-common-first/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
