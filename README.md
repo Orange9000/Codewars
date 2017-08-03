@@ -451,3 +451,7 @@ https://www.codewars.com/kata/japanese-numbers/javascript
 <br>
 https://www.codewars.com/kata/fixme-pow/javascript
 <br>
+https://www.codewars.com/kata/convert-sentences-to-new-york-my-guy/
+<br>
+https://www.codewars.com/kata/spongebob-meme/
+<br>
