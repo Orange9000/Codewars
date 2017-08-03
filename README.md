@@ -315,6 +315,8 @@ https://www.codewars.com/kata/descending-order/javascript
 <br>
 https://www.codewars.com/kata/simple-fun-number-30-strings-construction/
 <br>
+https://www.codewars.com/kata/nova-polynomial-4-derivative/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
