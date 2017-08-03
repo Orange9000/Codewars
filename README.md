@@ -317,6 +317,8 @@ https://www.codewars.com/kata/simple-fun-number-30-strings-construction/
 <br>
 https://www.codewars.com/kata/nova-polynomial-4-derivative/python
 <br>
+https://www.codewars.com/kata/the-deaf-rats-of-hamelin/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
