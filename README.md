@@ -226,6 +226,8 @@ https://www.codewars.com/kata/find-the-nexus-of-the-codewars-universe/javascript
 <br>
 https://www.codewars.com/kata/tribonacci-sequence/javascript
 <br>
+https://www.codewars.com/kata/caesar-cipher-encryption-variation/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
