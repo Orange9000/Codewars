@@ -324,6 +324,8 @@ https://www.codewars.com/kata/the-deaf-rats-of-hamelin/python
 <br>
 https://www.codewars.com/kata/most-common-first/python
 <br>
+https://www.codewars.com/kata/folding-your-way-to-the-moon/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
