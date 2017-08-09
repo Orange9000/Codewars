@@ -104,6 +104,8 @@ https://www.codewars.com/kata/bit-calculator/javascript
 <br>
 https://www.codewars.com/kata/largest-difference-in-increasing-indexes/javascript
 <br>
+https://www.codewars.com/kata/dont-drink-the-water/
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
