@@ -12,6 +12,12 @@ My current codewars rank:
 <br>
 <img src=https://www.codewars.com/users/TehOrange/badges/large>
 
+Kyu number determines kata's difficulty level as well as user's rank on a website.
+1kyu, 2kyu - Proficient
+3kyu, 4kyu - Competent
+5kyu, 6kyu - Novice
+7kyu, 8kyu - Beginner
+
 <b><h4>Completed katas:</h4></b>
 <b><h5>3kyu</h5></b>
 https://www.codewars.com/kata/calculator/python
