@@ -15,13 +15,13 @@ My current codewars rank:
 <br>
 Kyu number determines kata's difficulty level as well as user's rank on a website.
 <br>
-<font>color=#993399>1kyu, 2kyu - Proficient</font>
+<font color=#993399>1kyu, 2kyu - Proficient</font>
 <br>
-<font>color=#0000cc>3kyu, 4kyu - Competent</font>
+<font color=#0000cc>3kyu, 4kyu - Competent</font>
 <br>
-<font>color=#ff9900>5kyu, 6kyu - Novice</font>
+<font color=#ff9900>5kyu, 6kyu - Novice</font>
 <br>
-<font>color=#b3b3cc>7kyu, 8kyu - Beginner</font>
+<font color=#b3b3cc>7kyu, 8kyu - Beginner</font>
 <br>
 
 <b><h4>Completed katas:</h4></b>
