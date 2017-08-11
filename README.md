@@ -120,6 +120,8 @@ https://www.codewars.com/kata/dont-drink-the-water/
 <br>
 https://www.codewars.com/kata/tree-to-list/python
 <br>
+https://www.codewars.com/kata/memoized-fibonacci/javascript
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
