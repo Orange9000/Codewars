@@ -360,6 +360,8 @@ https://www.codewars.com/kata/simple-fun-number-261-whose-move/javascript
 <br>
 https://www.codewars.com/kata/triple-trouble-2/javascript
 <br>
+https://www.codewars.com/kata/take-the-derivative/javascript
+<br>
 
 <b><h5>beta (some of these could be out of beta already)</h5></b>
 https://www.codewars.com/kata/braces-status
