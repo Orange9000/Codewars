@@ -490,3 +490,5 @@ https://www.codewars.com/kata/convert-sentences-to-new-york-my-guy/
 <br>
 https://www.codewars.com/kata/spongebob-meme/
 <br>
+https://www.codewars.com/kata/word-values/python
+<br>
