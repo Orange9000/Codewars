@@ -250,6 +250,8 @@ https://www.codewars.com/kata/the-enigma-machine-part-1-the-plugboard/python
 <br>
 https://www.codewars.com/kata/twisted-sum/python
 <br>
+https://www.codewars.com/kata/591aa1752afcb02fa300002a
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
