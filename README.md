@@ -1,5 +1,5 @@
 # Codewars
-Solutions for <a href="http://www.codewars.com">codewars</a> problems I am not too ashamed to put on github.
+Solutions for <a href="http://www.codewars.com">codewars</a> problems I am not <i>too</i> ashamed to put on github.
 <br>
 Programming languages are JavaScript and Python.
 <br>
