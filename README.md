@@ -502,3 +502,5 @@ https://www.codewars.com/kata/word-values/python
 <br>
 https://www.codewars.com/kata/how-deep-do-these-trees-even-go/javascript
 <br>
+https://www.codewars.com/kata/collision-detection/
+<br>
