@@ -254,6 +254,8 @@ https://www.codewars.com/kata/twisted-sum/python
 <br>
 https://www.codewars.com/kata/591aa1752afcb02fa300002a
 <br>
+https://www.codewars.com/kata/format-words-into-a-sentence/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
