@@ -356,6 +356,8 @@ https://www.codewars.com/kata/folding-your-way-to-the-moon/javascript
 <br>
 https://www.codewars.com/kata/sum-of-integers-in-string/javascript
 <br>
+https://www.codewars.com/kata/stanton-measure/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
