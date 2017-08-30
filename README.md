@@ -374,6 +374,8 @@ https://www.codewars.com/kata/take-the-derivative/javascript
 <br>
 https://www.codewars.com/kata/kata-example-twist/javascript
 <br>
+https://www.codewars.com/kata/unicode-total/javascript
+<br>
 
 <b><h5>beta (some of these could be out of beta already)</h5></b>
 https://www.codewars.com/kata/braces-status
