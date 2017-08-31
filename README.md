@@ -256,6 +256,8 @@ https://www.codewars.com/kata/591aa1752afcb02fa300002a
 <br>
 https://www.codewars.com/kata/format-words-into-a-sentence/
 <br>
+https://www.codewars.com/kata/5592e3bd57b64d00f3000047
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
