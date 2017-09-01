@@ -362,6 +362,8 @@ https://www.codewars.com/kata/sum-of-integers-in-string/javascript
 <br>
 https://www.codewars.com/kata/stanton-measure/javascript
 <br>
+https://www.codewars.com/kata/complete-the-pattern-number-4/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
