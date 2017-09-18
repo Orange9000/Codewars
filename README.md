@@ -262,6 +262,8 @@ https://www.codewars.com/kata/fire-and-fury/python
 <br>
 https://www.codewars.com/kata/hollow-array/python
 <br>
+https://www.codewars.com/kata/integer-depth/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
