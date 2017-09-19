@@ -525,3 +525,6 @@ https://www.codewars.com/kata/collision-detection/
 https://www.codewars.com/kata/padding/javascript
 <br>
 https://www.codewars.com/kata/validate-my-password/javascript
+<br>
+https://www.codewars.com/kata/maximum-and-minimum/javascript
+<br>
