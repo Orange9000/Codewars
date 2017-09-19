@@ -521,3 +521,5 @@ https://www.codewars.com/kata/how-deep-do-these-trees-even-go/javascript
 https://www.codewars.com/kata/collision-detection/
 <br>
 https://www.codewars.com/kata/padding/javascript
+<br>
+https://www.codewars.com/kata/validate-my-password/javascript
