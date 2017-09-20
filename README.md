@@ -24,7 +24,7 @@ Kyu number determines kata's difficulty level as well as user's rank on a websit
 <font color=#b3b3cc>7kyu, 8kyu - Beginner</font>
 <br>
 
-<b><h4>Completed katas:</h4></b>
+<b><h4>Links to katas in this repository:</h4></b>
 <b><h5>3kyu</h5></b>
 https://www.codewars.com/kata/calculator/python
 <br>
