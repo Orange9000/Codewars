@@ -264,6 +264,8 @@ https://www.codewars.com/kata/hollow-array/python
 <br>
 https://www.codewars.com/kata/integer-depth/javascript
 <br>
+https://www.codewars.com/kata/n-centered-array/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
