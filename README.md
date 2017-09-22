@@ -532,3 +532,5 @@ https://www.codewars.com/kata/validate-my-password/javascript
 <br>
 https://www.codewars.com/kata/maximum-and-minimum/javascript
 <br>
+https://www.codewars.com/kata/sum-two-arrays/javascript
+<br>
