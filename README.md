@@ -534,3 +534,5 @@ https://www.codewars.com/kata/maximum-and-minimum/javascript
 <br>
 https://www.codewars.com/kata/sum-two-arrays/javascript
 <br>
+https://www.codewars.com/kata/odd-heavy-array/javascript
+<br>
