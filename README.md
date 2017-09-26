@@ -266,6 +266,8 @@ https://www.codewars.com/kata/integer-depth/javascript
 <br>
 https://www.codewars.com/kata/n-centered-array/
 <br>
+https://www.codewars.com/kata/consonant-value/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
