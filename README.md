@@ -13,7 +13,7 @@ My current codewars rank:
 <img src=https://www.codewars.com/users/TehOrange/badges/large>
 
 <br>
-Kyu number determines kata's difficulty level as well as user's rank on a website.
+Kyu digit determines kata's difficulty level as well as user's rank on a website.
 <br>
 <font color=#993399>1kyu, 2kyu - Proficient</font>
 <br>
