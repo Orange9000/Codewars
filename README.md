@@ -268,6 +268,8 @@ https://www.codewars.com/kata/n-centered-array/
 <br>
 https://www.codewars.com/kata/consonant-value/python
 <br>
+https://www.codewars.com/kata/59cf8bed1a68b75ffb000026
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
