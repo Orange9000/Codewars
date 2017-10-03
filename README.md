@@ -272,6 +272,8 @@ https://www.codewars.com/kata/59cf8bed1a68b75ffb000026
 <br>
 https://www.codewars.com/kata/infinite-sequences/javascript
 <br>
+https://www.codewars.com/kata/remember/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
