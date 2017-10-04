@@ -276,6 +276,8 @@ https://www.codewars.com/kata/remember/python
 <br>
 https://www.codewars.com/kata/bingo-card/python
 <br>
+https://www.codewars.com/kata/weight-lifting-calculator/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
