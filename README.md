@@ -392,6 +392,8 @@ https://www.codewars.com/kata/string-matchup/python
 <br>
 https://www.codewars.com/kata/sum-times-tables/python
 <br>
+https://www.codewars.com/kata/building-strings-from-a-hash/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
