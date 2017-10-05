@@ -280,6 +280,8 @@ https://www.codewars.com/kata/weight-lifting-calculator/javascript
 <br>
 https://www.codewars.com/kata/prime-reversion/python
 <br>
+https://www.codewars.com/kata/shorter-path/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
