@@ -124,6 +124,8 @@ https://www.codewars.com/kata/memoized-fibonacci/javascript
 <br>
 https://www.codewars.com/kata/52e88b39ffb6ac53a400022e
 <br>
+https://www.codewars.com/kata/simple-assembler-interpreter/javascript
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
