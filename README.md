@@ -566,3 +566,5 @@ https://www.codewars.com/kata/whats-in-a-name/javascript
 <br>
 https://www.codewars.com/kata/treasure-box/javascript
 <br>
+https://www.codewars.com/kata/alphabet-symmetry/python
+<br>
