@@ -1,16 +1,11 @@
 function simple_assembler(program) {
   const commands = program
-             .map((e,i)=>[i,e])
-             .reduce(function(obj,n){
-                      obj[n[0]]=n[1].split(' ');
-                      return obj;
-                    }, {})
-                    
+                   .map(e=>e.split(' '))       
   var reg = {}
   var idx = 0
   
   while (true){
-    if (idx>Math.max(...Object.keys(commands))){break}
+    if (idx>=commands.length){break}
     
     const cmd = commands[idx]
     
