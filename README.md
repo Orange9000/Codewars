@@ -562,3 +562,5 @@ https://www.codewars.com/kata/sum-two-arrays/javascript
 <br>
 https://www.codewars.com/kata/odd-heavy-array/javascript
 <br>
+https://www.codewars.com/kata/whats-in-a-name/javascript
+<br>
