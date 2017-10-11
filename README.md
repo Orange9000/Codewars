@@ -568,3 +568,5 @@ https://www.codewars.com/kata/treasure-box/javascript
 <br>
 https://www.codewars.com/kata/alphabet-symmetry/python
 <br>
+https://www.codewars.com/kata/symbols-counted/javascript
+<br>
