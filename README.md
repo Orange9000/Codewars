@@ -128,6 +128,8 @@ https://www.codewars.com/kata/simple-assembler-interpreter/javascript
 <br>
 https://www.codewars.com/kata/closest-friends/javascript
 <br>
+https://www.codewars.com/kata/handy-toolbox-for-kata-authors/javascript
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
