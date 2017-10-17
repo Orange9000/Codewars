@@ -430,6 +430,8 @@ https://www.codewars.com/kata/unicode-total/javascript
 <br>
 https://www.codewars.com/kata/find-the-difference-in-age-between-oldest-and-youngest-family-members/javascript
 <br>
+https://www.codewars.com/kata/count-odd-numbers-below-n/javascript
+<br>
 
 <b><h5>beta (some of these could be out of beta already)</h5></b>
 https://www.codewars.com/kata/braces-status
