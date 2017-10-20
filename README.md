@@ -298,6 +298,8 @@ https://www.codewars.com/kata/min-or-max-of/javascript
 <br>
 https://www.codewars.com/kata/html-dynamic-color-string-generation/javascript
 <br>
+https://www.codewars.com/kata/largest-number-arrangement/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
