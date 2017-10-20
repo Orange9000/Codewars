@@ -302,6 +302,8 @@ https://www.codewars.com/kata/largest-number-arrangement/python
 <br>
 https://www.codewars.com/kata/seven-ate-nine/javascript
 <br>
+https://www.codewars.com/kata/create-a-house-cleaning-rota/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
