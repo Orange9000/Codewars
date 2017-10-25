@@ -424,6 +424,8 @@ https://www.codewars.com/kata/building-strings-from-a-hash/javascript
 <br>
 https://www.codewars.com/kata/describe-the-shape/javascript
 <br>
+https://www.codewars.com/kata/elevator-distance/train/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
