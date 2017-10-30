@@ -308,6 +308,8 @@ https://www.codewars.com/kata/personalized-brand-list/python
 <br>
 https://www.codewars.com/kata/protein-synthesis-from-dna-to-polypeptide/javascript
 <br>
+https://www.codewars.com/kata/divisor-harmony/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
