@@ -312,6 +312,8 @@ https://www.codewars.com/kata/protein-synthesis-from-dna-to-polypeptide/javascri
 <br>
 https://www.codewars.com/kata/divisor-harmony/javascript
 <br>
+https://www.codewars.com/kata/upside-down-numbers/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
