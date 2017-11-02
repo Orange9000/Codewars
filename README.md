@@ -60,6 +60,8 @@ https://www.codewars.com/kata/string-indexof-and-lastindexof-with-regex/
 <br>
 https://www.codewars.com/kata/5324945e2ece5e1f32000370
 <br>
+https://www.codewars.com/kata/binary-multiple-of-3
+<br>
 
 <b><h5>5kyu</h5></b>
 https://www.codewars.com/kata/1-s-0-s-and-wildcards
