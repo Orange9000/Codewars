@@ -438,6 +438,8 @@ https://www.codewars.com/kata/elevator-distance/train/javascript
 <br>
 https://www.codewars.com/kata/59fb4d89ff58e5e816002efc
 <br>
+https://www.codewars.com/kata/order-of-weight/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
