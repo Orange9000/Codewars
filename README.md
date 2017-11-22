@@ -632,3 +632,4 @@ https://www.codewars.com/kata/compress-sentences/python
 <br>
 https://www.codewars.com/kata/query-converter/javascript
 <br>
+https://www.codewars.com/kata/whos-the-greatest/javascript
