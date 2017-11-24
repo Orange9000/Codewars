@@ -322,6 +322,8 @@ https://www.codewars.com/kata/groupby/javascript
 <br>
 https://www.codewars.com/kata/survive-the-seven-kingdoms/javascript
 <br>
+https://www.codewars.com/kata/double-rainbow/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
