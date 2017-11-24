@@ -458,6 +458,8 @@ https://www.codewars.com/kata/string-doubles
 <br>
 https://www.codewars.com/kata/sum-of-a-nested-list/javascript
 <br>
+https://www.codewars.com/kata/validate-the-hash/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
