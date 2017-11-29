@@ -136,6 +136,8 @@ https://www.codewars.com/kata/missing-and-duplicate-number/javascript
 <br>
 https://www.codewars.com/kata/rgb-to-hex-conversion/javascript
 <br>
+https://www.codewars.com/kata/pete-the-baker/javascript
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
