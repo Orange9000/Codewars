@@ -328,6 +328,8 @@ https://www.codewars.com/kata/double-rainbow/javascript
 <br>
 https://www.codewars.com/kata/speech-to-text-string-manipulation/javascript
 <br>
+https://www.codewars.com/kata/sort-odd-and-even-numbers-in-different-order/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
