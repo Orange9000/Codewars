@@ -332,6 +332,8 @@ https://www.codewars.com/kata/sort-odd-and-even-numbers-in-different-order/javas
 <br>
 https://www.codewars.com/kata/string-evaluation/python
 <br>
+https://www.codewars.com/kata/number-of-digit-d-in-m-based-number-converted-to-base-n/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
