@@ -334,6 +334,8 @@ https://www.codewars.com/kata/string-evaluation/python
 <br>
 https://www.codewars.com/kata/number-of-digit-d-in-m-based-number-converted-to-base-n/javascript
 <br>
+https://www.codewars.com/kata/base-reduction/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
