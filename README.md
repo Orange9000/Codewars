@@ -655,3 +655,5 @@ https://www.codewars.com/kata/compress-sentences/python
 https://www.codewars.com/kata/query-converter/javascript
 <br>
 https://www.codewars.com/kata/whos-the-greatest/javascript
+<br>
+https://www.codewars.com/kata/check-digit-1/javascript
