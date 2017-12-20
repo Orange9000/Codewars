@@ -138,6 +138,8 @@ https://www.codewars.com/kata/rgb-to-hex-conversion/javascript
 <br>
 https://www.codewars.com/kata/pete-the-baker/javascript
 <br>
+https://www.codewars.com/kata/simple-number-sequence/python
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
