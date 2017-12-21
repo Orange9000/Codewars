@@ -340,6 +340,8 @@ https://www.codewars.com/kata/base-reduction/python
 <br>
 https://www.codewars.com/kata/conversion-between-kilobyte-and-kibibyte/javascript
 <br>
+https://www.codewars.com/kata/unique-strings/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
