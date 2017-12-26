@@ -342,6 +342,8 @@ https://www.codewars.com/kata/conversion-between-kilobyte-and-kibibyte/javascrip
 <br>
 https://www.codewars.com/kata/unique-strings/python
 <br>
+https://www.codewars.com/kata/traverse-array-elements-diagonally/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
