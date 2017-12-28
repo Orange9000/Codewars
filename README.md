@@ -486,6 +486,8 @@ https://www.codewars.com/kata/array-element-parity/javascript
 <br>
 https://www.codewars.com/kata/unique-string-characters/python
 <br>
+https://www.codewars.com/kata/numbers-with-d-occurences-of-digit-d/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
