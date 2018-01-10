@@ -346,6 +346,8 @@ https://www.codewars.com/kata/traverse-array-elements-diagonally/javascript
 <br>
 https://www.codewars.com/kata/shorten-me-array-declaration-viii-musical-scales/javascript
 <br>
+https://www.codewars.com/kata/shorten-me-array-declaration-vii-alphabets/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
