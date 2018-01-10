@@ -490,6 +490,8 @@ https://www.codewars.com/kata/numbers-with-d-occurences-of-digit-d/javascript
 <br>
 https://www.codewars.com/kata/split-by-value/javascript
 <br>
+https://www.codewars.com/kata/shorten-me-array-declaration-vi-months/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
