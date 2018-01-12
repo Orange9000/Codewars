@@ -351,6 +351,9 @@ https://www.codewars.com/kata/shorten-me-array-declaration-viii-musical-scales/j
 https://www.codewars.com/kata/shorten-me-array-declaration-vii-alphabets/javascript
 <br>
 https://www.codewars.com/kata/tv-channels/train/javascript
+<br>
+https://www.codewars.com/kata/ragbaby-cipher/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
