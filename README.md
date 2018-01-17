@@ -685,3 +685,5 @@ https://www.codewars.com/kata/query-converter/javascript
 https://www.codewars.com/kata/whos-the-greatest/javascript
 <br>
 https://www.codewars.com/kata/check-digit-1/javascript
+<br>
+https://www.codewars.com/kata/is-crypt-solution/javascript
