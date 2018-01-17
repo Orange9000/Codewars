@@ -502,6 +502,8 @@ https://www.codewars.com/kata/split-by-value/javascript
 <br>
 https://www.codewars.com/kata/shorten-me-array-declaration-vi-months/javascript
 <br>
+https://www.codewars.com/kata/cantors-diagonals/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
