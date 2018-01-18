@@ -354,6 +354,8 @@ https://www.codewars.com/kata/tv-channels/train/javascript
 <br>
 https://www.codewars.com/kata/ragbaby-cipher/javascript
 <br>
+https://www.codewars.com/kata/arrays-of-cats-and-dogs/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
