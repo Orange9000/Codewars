@@ -506,6 +506,8 @@ https://www.codewars.com/kata/shorten-me-array-declaration-vi-months/javascript
 <br>
 https://www.codewars.com/kata/cantors-diagonals/python
 <br>
+https://www.codewars.com/kata/collatz-conjecture-length/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
