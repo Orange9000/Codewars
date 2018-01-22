@@ -142,6 +142,8 @@ https://www.codewars.com/kata/simple-number-sequence/python
 <br>
 https://www.codewars.com/kata/typoglycemia-generator/python
 <br>
+https://www.codewars.com/kata/nmea-checksum/javascript
+<br>
 
 <b><h5>6kyu</h5></b>
 https://www.codewars.com/kata/camelcase-method
