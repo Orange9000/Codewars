@@ -510,6 +510,8 @@ https://www.codewars.com/kata/cantors-diagonals/python
 <br>
 https://www.codewars.com/kata/collatz-conjecture-length/python
 <br>
+https://www.codewars.com/kata/well-of-ideas-harder-version/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
