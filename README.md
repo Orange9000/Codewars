@@ -705,3 +705,5 @@ https://www.codewars.com/kata/whos-the-greatest/javascript
 https://www.codewars.com/kata/check-digit-1/javascript
 <br>
 https://www.codewars.com/kata/is-crypt-solution/javascript
+<br>
+https://www.codewars.com/kata/an-alternating-word/javascript
