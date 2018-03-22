@@ -707,3 +707,5 @@ https://www.codewars.com/kata/check-digit-1/javascript
 https://www.codewars.com/kata/is-crypt-solution/javascript
 <br>
 https://www.codewars.com/kata/an-alternating-word/javascript
+<br>
+https://www.codewars.com/kata/binary-to-string/python
