@@ -715,3 +715,5 @@ https://www.codewars.com/kata/is-crypt-solution/javascript
 https://www.codewars.com/kata/an-alternating-word/javascript
 <br>
 https://www.codewars.com/kata/binary-to-string/python
+<br>
+https://www.codewars.com/kata/clean-up-your-gibberish/javascript
