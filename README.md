@@ -524,6 +524,8 @@ https://www.codewars.com/kata/string-ascii-string/python
 <br>
 https://www.codewars.com/kata/form-the-minimum/python
 <br>
+https://www.codewars.com/kata/adding-remainders-to-a-list/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
