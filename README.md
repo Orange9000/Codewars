@@ -364,6 +364,8 @@ https://www.codewars.com/kata/simple-string-expansion/python
 <br>
 https://www.codewars.com/kata/name-to-matrix/javascript
 <br>
+https://www.codewars.com/kata/converting-measures/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
