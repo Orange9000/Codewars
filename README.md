@@ -366,6 +366,8 @@ https://www.codewars.com/kata/name-to-matrix/javascript
 <br>
 https://www.codewars.com/kata/converting-measures/python
 <br>
+https://www.codewars.com/kata/transform-to-prime/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
