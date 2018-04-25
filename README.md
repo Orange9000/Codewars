@@ -7,7 +7,7 @@ Also, me not being able into PEP8.
 <br>
 <br>
 <br>
-My current codewars rank:
+<a href=https://www.codewars.com/users/TehOrange>My</a> current codewars rank:
 <br>
 <br>
 <img src=https://www.codewars.com/users/TehOrange/badges/large>
