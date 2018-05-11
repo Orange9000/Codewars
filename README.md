@@ -540,6 +540,8 @@ https://www.codewars.com/kata/maximum-product/javascript
 <br>
 https://www.codewars.com/kata/form-the-largest/javascript
 <br>
+https://www.codewars.com/kata/quadratic-enumerator-1/python
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
