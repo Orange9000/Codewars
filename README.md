@@ -368,6 +368,8 @@ https://www.codewars.com/kata/converting-measures/python
 <br>
 https://www.codewars.com/kata/transform-to-prime/python
 <br>
+https://www.codewars.com/kata/the-nth-smallest-integer/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
