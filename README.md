@@ -536,6 +536,8 @@ https://www.codewars.com/kata/dominant-array-elements/javascript
 <br>
 https://www.codewars.com/kata/maximum-product/javascript
 <br>
+https://www.codewars.com/kata/form-the-largest/javascript
+<br>
 
 <b><h5>8kyu</h5></b>
 https://www.codewars.com/kata/heads-and-legs/train/python
