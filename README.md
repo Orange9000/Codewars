@@ -374,6 +374,8 @@ https://www.codewars.com/kata/alphabetized/javascript
 <br>
 https://www.codewars.com/kata/convert-string-to-camel-case/javascript
 <br>
+https://www.codewars.com/kata/extract-file-name/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
