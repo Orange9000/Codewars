@@ -376,6 +376,8 @@ https://www.codewars.com/kata/convert-string-to-camel-case/javascript
 <br>
 https://www.codewars.com/kata/extract-file-name/javascript
 <br>
+https://www.codewars.com/kata/plenty-of-fish-in-the-pond/train/python/
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
