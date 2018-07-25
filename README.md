@@ -378,6 +378,8 @@ https://www.codewars.com/kata/extract-file-name/javascript
 <br>
 https://www.codewars.com/kata/plenty-of-fish-in-the-pond/train/python/
 <br>
+https://www.codewars.com/kata/unknown-amount-of-missing-numbers-in-an-unordered-array-hardcore-version/python
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
