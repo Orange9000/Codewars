@@ -382,6 +382,8 @@ https://www.codewars.com/kata/unknown-amount-of-missing-numbers-in-an-unordered-
 <br>
 https://www.codewars.com/kata/easy-balance-checking
 <br>
+https://www.codewars.com/kata/does-my-number-look-big-in-this/train/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
