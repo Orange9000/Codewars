@@ -388,6 +388,8 @@ https://www.codewars.com/kata/does-my-number-look-big-in-this/train/javascript
 <br>
 https://www.codewars.com/kata/create-a-frame/javascript
 <br>
+https://www.codewars.com/kata/help-the-bookseller/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
