@@ -761,3 +761,5 @@ https://www.codewars.com/kata/clean-up-your-gibberish/javascript
 https://www.codewars.com/kata/aliens-have-landed/javascript
 <br>
 https://www.codewars.com/kata/5be0d7b36f74f583ab000109
+<br>
+https://www.codewars.com/kata/remove-empty-items-of-array/train/javascript
