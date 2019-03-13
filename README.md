@@ -390,6 +390,8 @@ https://www.codewars.com/kata/create-a-frame/javascript
 <br>
 https://www.codewars.com/kata/help-the-bookseller/javascript
 <br>
+https://www.codewars.com/kata/encrypt-this/javascript
+<br>
 
 <b><h5>7kyu</h5></b>
 https://www.codewars.com/kata/temperature-analysis-i
