@@ -7,7 +7,7 @@ Solutions for <a href="http://www.codewars.com">codewars</a> problems I am not <
 <br>
 <hr>
 <b><i>[RUS] Codewars это сообщество разработчиков, именуемых "Code Warriors", которые работают над улучшением своих навыков программирования. Это можно сравнить с "программерским додзё" - где разработчики тренируются друг с другом и помогают стать лучше путём практики.</b></i>
-
+<hr>
 <br>
 Programming languages are JavaScript and Python.
 <br>
